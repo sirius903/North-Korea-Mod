@@ -1,23 +1,24 @@
+
 game.png
-size: 2048, 1024
+size: 1024, 256
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-NationIcons\North Korea
+BuildingIcons/Kaesong Industrial Region
   rotate: false
-  xy: 4, 4
+  xy: 212, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons\Kaesong Industrial Region
+NationIcons/North Korea
   rotate: false
-  xy: 4, 4
+  xy: 420, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons\Goksanpo
+UnitIcons/Goksanpo
   rotate: false
   xy: 4, 4
   size: 200, 200
