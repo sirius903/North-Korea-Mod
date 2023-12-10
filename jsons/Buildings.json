@@ -1,0 +1,13 @@
+[
+	{
+		"name" : "Kaesong Industrial Region",
+		"replaces" : "Factory",
+		"uniqueTo" : "North Korea",
+		"maintenance" : 5,
+		"production" : 10,
+		"cost" : 400,
+		"hurryCostModifier" : 1000,
+		"requiredTech" : "Industrialization",
+		"uniques" : ["5 Engineer specialist slots.", "[-1 Happiness]"]
+	}
+]

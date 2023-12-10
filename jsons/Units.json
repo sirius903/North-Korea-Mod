@@ -1,0 +1,16 @@
+[
+	{
+		"name": "Goksanpo",
+		"unitType": "Siege",
+		"uniqueTo": "North Korea",
+		"replaces": "Artillery",
+		"movement": 2,
+		"strength": 27,
+		"rangedStrength": 30,
+		"cost": 320,
+		"requiredTech": "Dynamite",
+		"upgradesTo": "Rocket Artillery",
+		"obsoleteTech": "Rocketry",
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "[2] additional attacks per turn <when fighting in [Friendly Land] tiles>","Must set up to ranged attack"]
+	}
+]

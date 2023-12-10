@@ -1,0 +1,35 @@
+[
+	{
+		"name" : "North Korea",
+		"leaderName" : "Kim Jong Un",
+		"adjective" : ["North Korean"],
+		"startBias" : ["Coast"],
+		"preferredVictoryType" : "Domination",
+		
+		"startIntroPart1" : "Powerful Nation, Powerful Army! Guardian of a Thousand Years, Great Leader!",
+		"startIntroPart2" : "The Unity of the Nation is Invincible Power! Independence, Strength, Prosperity!",
+
+		"declaringWar" : "We tried to settle the dispute peacefully with you, but you eventually crossed the line and we set up a war to ensure the safety of our people.",
+		"attacked" : "I'll kill you all!",
+		"defeated" : "We have dedicated ourselves to the people. It remains to be seen whether our efforts have been insufficient or our choices have been wrong...",
+		"introduction" : "I'm Kim Jong Un.",
+
+		"neutralHello" : "Nice to meet you, comrade.",
+		"neutralLetsHearIt" : ["Is that so.","I wanna hear it"],
+		"neutralNo": ["No.","That's impossible."],
+		"neutralYes": ["All right.","That's a good idea."],
+		"hateHello": "Get away from me, Ganna!",
+		"hateLetsHearIt" : "What are you trying to say?",
+		"hateNo": ["We will never accept that!","Do you think it's ok?"],
+		"hateYes": ["I must accept.","I never reject a good offer."],
+		
+		"afterPeace" : "It's the blessing of a great comrade!",
+		"tradeRequest" : "I have a good suggestion, comrade.",
+
+		"outerColor" : [2, 79, 162],
+		"innerColor" : [237, 28, 39],
+		"uniqueName" : "Great Propaganda",
+		"uniques" : ["[+1 Happiness] [in capital] <after discovering [Writing]>", "[+2 Happiness] [in capital] <after discovering [Drama and Poetry]>", "[+1 Happiness] [in all cities] <after discovering [Printing Press]>", "[+1 Happiness] [in all cities] <after discovering [Radio]>", "[-1 Happiness] [in capital] <after discovering [Telecommunications]>"],
+		"cities" : ["Pyongyang","Kaeseong","Hamhung","Nampo","Chongjin","Wonsan","Raseon","Kaechon","Sinuiju","Sariwon","Haeju","Kanggye","Hyesan","Rajin","Sonbong","Anju","Songnim","Hwangju","Kilju","Anbyon"]
+	}
+]
