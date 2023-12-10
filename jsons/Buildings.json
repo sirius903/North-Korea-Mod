@@ -9,6 +9,6 @@
 		"cost" : 400,
 		"hurryCostModifier" : 1000,
 		"requiredTech" : "Industrialization",
-		"uniques" : ["5 Engineer specialist slots.", "[-1 Happiness]"]
+		"uniques" : ["[-1 Happiness]"]
 	}
 ]
