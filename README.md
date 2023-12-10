@@ -1,2 +1,2 @@
 # North-Korea-Mode
-북한 모드
+Mod adding North Korea to the game(with Goksanpo and Kaesong Industrial Region)
